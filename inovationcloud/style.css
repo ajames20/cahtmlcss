@@ -19,6 +19,7 @@ body {
     height: 800px;
     text-align: center;
     background-image: url("https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg");
+    background-size: cover;
 }
 .header .container {
     position: relative;
