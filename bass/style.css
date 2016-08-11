@@ -1,0 +1,76 @@
+html, body {
+    background-color: #161718;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+h2, .h2 {
+    font-size: 30px;
+}
+.jumbotron {
+    background: url("https://s3.amazonaws.com/codecademy-content/projects/bass/bg.jpg")no-repeat center center;
+    background-size: cover;
+}
+.header {
+    color: #ffffff;
+}
+.header li {
+    display: inline-block;
+    margin-left: 13px;
+    margin-top: 40px;
+}
+.header a {
+    padding: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+.header .btn-default {
+    border: 0px;
+    border-radius: 0;
+    padding: 8px 30px;
+    background-color: #ff003d;
+}
+.main {
+    text-align: left;
+    color: #fff;
+}
+.main h1 {
+    padding-top: 60px;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+.supporting-1, .supporting-3 {
+    background-color: #161718;
+}
+.supporting-1, .supporting-2, .supporting-3, .supporting-4 {
+    padding: 70px 30px;
+}
+.supporting-4 {
+    background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/feature.jpg) no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    height: 400px;
+}
+.supporting-4 h2 {
+    margin-top: 80px;
+}
+.footer {
+    text-align: center;
+}
+.footer ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.footer a {
+    color: #aaa;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #FF003D;
+}
